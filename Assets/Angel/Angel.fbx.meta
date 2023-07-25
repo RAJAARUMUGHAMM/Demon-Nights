@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 2b74795b82a4ede4fae39416fc38cf8f
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh10_Group6_Window1_ModelMat
+    second: {fileID: 2100000, guid: 98cb7c69258349b48a29138254ea7c14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh11_Group7_Window1_ModelMat
+    second: {fileID: 2100000, guid: 4c7e8575d359bb044a2fde8cc14dbb25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh12_Group8_Window1_ModelMat
+    second: {fileID: 2100000, guid: da3aa421ffc25524290650cb920c674d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh13_Component_7_1_Window1_ModelMat
+    second: {fileID: 2100000, guid: 45acd7928ee09b245ab356a2c903d576, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh14_Component_7_2_Window1_ModelMat
+    second: {fileID: 2100000, guid: dc5a3f9340326e64f9f955467f97d2d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh15_Group9_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 9ef362f842bb5b84e9d272928e960f87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh16_Group10_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 3798079a6787b8a48bf6bf4387344fba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh17_Pillar1_1_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 6e407ba6ec4850e4180300cb19272815, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh18_Pillar1_1_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: c687debaf22d5a74e9fe7f1aca17eea5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh19_Pillar1_2_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: c7208c37ac08e124d9426c826e1f7ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh1_Group1_ModelMat
+    second: {fileID: 2100000, guid: 19921ad5e7c0f2740853e422544af701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh20_Pillar1_2_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 7dc9b30143a12294699ca329047c6c99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh21_Group11_Window2_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 7359e9454814c484f8d1ed99d00a5c26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh22_Group12_Window2_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 37fb2683826aac243851f4eb32898079, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh23_Group13_Window2_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: c3d8db0dbf0977d4a830ebe2a14794e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh24_Component_7_3_Window2_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: f64d9553bb804904298383c5230d129d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh25_Component_7_4_Window2_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 1d7d706af53075d4492f95842f508070, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh26_Group14_Window3_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: c91c58eea04cd4c43a04534939b42c8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh27_Group15_Window3_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: e8b3da893dc39ed47a730a525dd95560, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh28_Group16_Window3_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 16760bf6b2e91cd408f227625791e6b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh29_Component_7_5_Window3_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 58e497c0cb798d64280282f6dc9cdb84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh2_Group2_ModelMat
+    second: {fileID: 2100000, guid: d084bce9ed67bc04fb9561fb74516055, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh30_Component_7_6_Window3_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 0816fb8f304fa324c9bd517a02a2cff5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh31_Pillar1_3_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 7e24e2b1286f1fd46b9a60a838bc335c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh32_Pillar1_3_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: a24853081f931d946945f696ed4143ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh33_Pillar1_4_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 45240ddc50d9e8a4d8d4f3fbbe8e9fc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh34_Pillar1_4_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 25712d2a29ef33e48b0ba768a3c96189, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh35_Pillar1_5_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: e62c5b5a044f79f4e9d2024f56a76983, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh36_Pillar1_5_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: c92bf836cd5f67944b0efd0433fd39e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh37_Group17_Window4_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 8a52db8da6db2e6448eedfabacc40ffc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh38_Group18_Window4_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 127cac685c74340449f6f3307e9f3443, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh39_Group19_Window4_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 78ae3eae1c8d0934588ea442e3cb3365, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh3_Group3_ModelMat
+    second: {fileID: 2100000, guid: 9513148869aa0f94d86b260cbba13176, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh40_Component_7_7_Window4_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 068a9255d5ddd5e4ba1d9e7aeced27eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh41_Component_7_8_Window4_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 75cb9f63e1843e649853869de16b484b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh42_Component_4_1_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: c6b3a4a2cd99ef04f9cbbf4421269ca9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh43_Component_4_2_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 9dd0b67aa1a80fe42931547abe454ebc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh44_Component_5_1_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 4c9cfe609c707e249a1853525bc3b608, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh45_Component_5_2_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 78eb43fe35697bf46a76056ab8f887cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh46_Group20_Component_1_1_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: bb9ccf26b7e25314ba0b05439e30b726, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh47_Component_8_1_Component_1_1_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 81c2421b992a73d4facd2e3cb788cecc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh48_Component_8_2_Component_1_1_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 0b9c9c63c54b0854ba1a3980d1305bba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh49_Group21_Component_6_1_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: de54b01e4e6c1514288627c12a67907f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh4_Group3_ModelMat
+    second: {fileID: 2100000, guid: 504413079b0eac742b67bcbd5f178a63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh50_Group22_Component_6_1_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 909becadc66f75348bf48212dd1272b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh51_Component_5_3_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: ae2d026291a716b40b3135323941d33c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh52_Group23_Component_6_2_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 3bb8a4aa5acfa5f4cb33c6f8ccc8abac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh53_Group24_Component_6_2_Half1_1_ModelMat
+    second: {fileID: 2100000, guid: 56196c2f11974e2429df6f96e85a5f0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh54_Group25_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: cb0f3efb670fae3438b09d0f93c7e50e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh55_Group26_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: b7c0a64f57362e84d865843e87a54fc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh56_Pillar1_6_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: ed765dcfcdc0e6145b042f94f9601df0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh57_Pillar1_6_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: 5d5815d8bf9aa5f4bb681c81a9b6b3b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh58_Pillar1_7_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: 5b11e0c930348f843abe1f0bfe18f8b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh59_Pillar1_7_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: 3c42ce110ef516e4b832a9a6909be931, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh5_Group3_ModelMat
+    second: {fileID: 2100000, guid: 43ff397bd1d61274ca2df8d8b5edbc44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh60_Group27_Window5_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: 730f2e85ee482464d8924eb6b8f4352b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh61_Group28_Window5_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: db94ec974b2cd7941998d005aba0cb03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh62_Group29_Window5_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: e36680210ae628c4eb43200ac2f9eb10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh63_Component_7_9_Window5_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: a67ec908773d4694faafb376e6728070, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh64_Component_7_10_Window5_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: caf5d3618261fc84fa5d8ffb2429e8db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh65_Group30_Window6_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: 6b5b7a92002e89e438518d28af2a417f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh66_Group31_Window6_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: 2481b0b56e094e34c80a932072e6f990, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh67_Group32_Window6_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: ae5c1a62da55b674289943f5b3b3eb0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh68_Component_7_11_Window6_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: 371fcd58664d92e49bface87c495270c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh69_Component_7_12_Window6_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: e465c5289b685aa4a92010b3d8b1f8cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh6_Group3_ModelMat
+    second: {fileID: 2100000, guid: e03b267543548f3468f63232cb7f43c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh70_Pillar1_8_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: dbe9f4fe9595ffe4b80d02f9abe10ccd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh71_Pillar1_8_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: 7ceded07004c7ee459795f53a8eefb93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh72_Pillar1_9_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: 127de2b092d18d8478f2ec3ff407664f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh73_Pillar1_9_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: b144efab45edf5042989eac8c53835b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh74_Pillar1_10_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: c785221506bf7f149ba99fc47de93396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh75_Pillar1_10_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: ec38ea2198a10124c9e39f3180ab6366, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh76_Group33_Window7_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: f707aee846942234bae07e424d1d28ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh77_Group34_Window7_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: 9baf460e5b4945a4f89db9b170afa09e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh78_Group35_Window7_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: 2d80fbab7d435be46a0585f805fe4660, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh79_Component_7_13_Window7_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: 9541e1a5ca7858f4ea1e7a8a9012defa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh7_Group4_ModelMat
+    second: {fileID: 2100000, guid: c10397a3bee0a66488437c2f6b4b501c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh80_Component_7_14_Window7_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: 2be4daf20a7763d4997cff5cf5421c4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh81_Component_4_3_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: 1a8ddbfabb18af14eb3928e3fd620194, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh82_Component_4_4_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: b6be6a4242b780d4880a12e572c16c49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh83_Component_5_4_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: 95c5c107f91ee1c49a548aac662b11ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh84_Component_5_5_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: ac6ed16f611eef44c90eadf771453ac4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh85_Group36_Component_1_2_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: 44c099d8386826543b3ae601b72c7dfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh86_Component_8_3_Component_1_2_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: 1ebfa06cc4e9e9448986b1a921bb6d5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh87_Component_8_4_Component_1_2_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: 3ae9202c86668bf46b900f914a4fc852, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh88_Group37_Component_6_3_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: a8fd298df738ca4459d68033a53439b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh89_Group38_Component_6_3_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: c3b45511c5a777244a256db5cfaebbc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh8_Group5_ModelMat
+    second: {fileID: 2100000, guid: 99130004e83e69d4b9a8c56a7584bbb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh90_Component_5_6_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: f9c633157e869c7428a033e78b64936e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh91_Group39_Component_6_4_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: 6ec502e9ad344cb4f929824aa34098ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh92_Group40_Component_6_4_Half1_2_ModelMat
+    second: {fileID: 2100000, guid: 13bb4234f2185a24dacd6913eb8ddc0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh93_Group41_Component_2_1_ModelMat
+    second: {fileID: 2100000, guid: 31bd4b433d20fb34686f2321957ff2ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesh94_skpCCBB1_CFNetworkDownload_ATCXuS_tmp1_ModelMat
+    second: {fileID: 2100000, guid: c86a518ca7687544e9cebac8d1cab8e6, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
